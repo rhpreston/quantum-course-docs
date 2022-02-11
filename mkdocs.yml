@@ -5,7 +5,7 @@ site_description: >
   skills and enable you to implement and analyze quantum algorithms
 site_author: Joe Clapis & Richard Preston
 copyright: >
-  © 2021 The MITRE Corporation. All rights reserved. For internal use only.
+  © 2021 The MITRE Corporation. All rights reserved. Approved for Public Release; Distribution Unlimited. Public Release Case Number 21-1765.
 repo_url: https://gitlab.mitre.org/quantum-software/course
 repo_name: GitLab
 edit_uri: edit/master/docs
